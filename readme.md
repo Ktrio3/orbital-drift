@@ -1,3 +1,16 @@
+*Developer's Notes*
+
+*This project was developed as part of a reseach-focused honors course 
+at the University of South Florida I took Fall 2016; it has 
+been sitting untouched on a private bitbucket repo since then. I have left
+the documentation and code exactly as it was when the class ended, including
+the report (having been away from the project, I didn't want to remove/edit an important
+piece of documentation).*
+
+*Disclaimer: I am not an astronomer or physicist, 
+and any results of this program should not be used for anything more than
+trivial curiosity.*
+
 ## Obrital_Drift.py
 
 I ran and developed this program on Ubuntu 16.0.4
