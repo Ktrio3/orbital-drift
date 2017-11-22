@@ -1,0 +1,11 @@
+id,planet_name,num_moons,size_ratio,default_color,default_orbit_color
+1,Mercury,0,0.0035032022,#8F8A90,#1F1F1F
+2,Venus,0,0.9499,#ffff66,#ffcc66
+3,Earth,1,0.0091491308,#00ccff,#0066cc
+4,Mars,2,0.532,#990000,#800000
+5,Jupiter,67,0.1003659652,#ff6600,#ff3300
+6,Saturn,62,0.0836230558,#cc9900,#996600
+7,Uranus,27,0.0364226898,#0066cc,#000099
+8,Neptune,14,0.0353613907,#3333cc,#333399
+9,Pluto,5,0.0017017383,#cc4400,#993300
+10,Moon,-1,0.002494968,#0066cc,#000099

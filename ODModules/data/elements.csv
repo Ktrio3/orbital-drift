@@ -1,0 +1,7 @@
+id,element_name,variable,units
+1,longitude of the ascending node,longAscNode,Rad
+2,inclination to the ecliptic,incElip,Rad
+3,argument of perihelion,argPerih,Rad
+4,semi-major axis,semiMajAx,AU
+5,eccentricity,eccen,none
+6,mean anomaly,meanAnom,Rad
